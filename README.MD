@@ -1,5 +1,5 @@
 # IFAL AA server reference implementation
-# Chris Hicks 2019
+### Chris Hicks 2019
 
 This is a simple application which demonstrates the creation of an IFAL certificate file by an Authorisation Authority (AA).
 
